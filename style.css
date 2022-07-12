@@ -3,11 +3,11 @@ main {
 }
 
 .link4-6 a {
-    background-color: green;
+   color: green;
 }
 
 a[href^=https] {
-    background-color: rgb(253, 0, 0);
+    color: rgb(253, 0, 0);
 }
 
 .size {
